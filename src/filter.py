@@ -44,6 +44,10 @@ def passes_filter(listing: dict, filter_cfg: dict) -> bool:
         logger.debug(f"[篩選] 排除（含排除關鍵字）：{listing.get('title', '')}")
         return False
 
+    if not _check_require_keywords(listing, filter_cfg):
+        logger.debug(f"[篩選] 排除（不含必要關鍵字）：{listing.get('title', '')}")
+        return False
+
     return True
 
 
@@ -138,6 +142,23 @@ def _check_exclude_keywords(listing: dict, filter_cfg: dict) -> bool:
             return False
 
     return True
+
+
+def _check_require_keywords(listing: dict, filter_cfg: dict) -> bool:
+    """
+    標題或特色標籤必須包含至少一個必要關鍵字。
+    未設定 require_keywords 則不限制。
+    """
+    keywords = filter_cfg.get("require_keywords", [])
+    if not keywords:
+        return True
+
+    title = listing.get("title", "") or ""
+    features = listing.get("features", []) or []
+    features_str = " ".join(features) if isinstance(features, list) else str(features)
+    combined_text = f"{title} {features_str}"
+
+    return any(kw in combined_text for kw in keywords)
 
 
 def _parse_datetime(dt_str: str) -> datetime:
