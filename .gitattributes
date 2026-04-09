@@ -1,0 +1,8 @@
+# 確保 JSON 資料檔在各平台統一使用 LF 換行
+data/listings.json text eol=lf
+
+# 確保 shell script 使用 LF
+*.sh text eol=lf
+
+# 標記二進位檔（若未來需要追蹤 DB）
+*.db binary

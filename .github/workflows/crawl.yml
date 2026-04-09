@@ -1,0 +1,83 @@
+name: 租屋偵探爬蟲
+
+on:
+  schedule:
+    # 每 2 小時執行一次（UTC），對應台灣時間整點
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+    # 允許手動從 Actions 頁面觸發（初次設定或除錯用）
+
+permissions:
+  contents: write   # 需要 git push 提交 listings.json / map.html
+  pages: write      # 部署 GitHub Pages
+  id-token: write   # OIDC token（GitHub Pages 部署需要）
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30  # 防止卡住的安全上限
+
+    steps:
+      # ── 1. 取得程式碼 ──
+      - name: Checkout 程式碼
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ── 2. 還原 SQLite 資料庫（用 cache 持久化，不提交二進位 DB 到 git）──
+      - name: 還原 SQLite DB 快取
+        uses: actions/cache@v4
+        with:
+          path: data/rental_detective.db
+          # 每次執行用新 key 寫入，restore-keys 確保取到最新的快取
+          key: sqlite-db-${{ github.run_id }}
+          restore-keys: |
+            sqlite-db-
+
+      # ── 3. 設定 Python ──
+      - name: 設定 Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # ── 4. 安裝 Python 套件 ──
+      - name: 安裝 Python 相依套件
+        run: pip install -r requirements.txt
+
+      # ── 5. 安裝 Playwright 瀏覽器 ──
+      - name: 安裝 Playwright Chromium
+        run: playwright install chromium --with-deps
+
+      # ── 6. 執行爬蟲 ──
+      - name: 執行租屋偵探爬蟲
+        env:
+          NOTION_TOKEN:               ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID:         ${{ secrets.NOTION_DATABASE_ID }}
+          LINE_CHANNEL_ACCESS_TOKEN:  ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_ID:               ${{ secrets.LINE_USER_ID }}
+          GOOGLE_GEOCODING_API_KEY:   ${{ secrets.GOOGLE_GEOCODING_API_KEY }}
+          DB_PATH:                    data/rental_detective.db
+          RUN_MODE:                   ci
+        run: python main.py
+
+      # ── 7. 提交自動更新的地圖資料 ──
+      - name: 提交地圖資料更新
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/listings.json docs/map.html
+          # 只在有變更時才 commit（避免空 commit）
+          git diff --staged --quiet || git commit -m "chore: 自動更新地圖資料 $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+
+      # ── 8. 上傳 GitHub Pages artifact ──
+      - name: 上傳 GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # docs/ 資料夾作為 GitHub Pages 的根目錄
+          path: docs/
+
+      # ── 9. 部署 GitHub Pages ──
+      - name: 部署至 GitHub Pages
+        uses: actions/deploy-pages@v4

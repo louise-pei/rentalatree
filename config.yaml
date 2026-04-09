@@ -1,0 +1,52 @@
+# 租屋偵探設定檔
+# 所有 API 金鑰請勿填在此處，一律從環境變數（.env）讀取
+
+scraper:
+  delay_min: 1.0        # 每次請求之間最小間隔（秒）
+  delay_max: 3.0        # 每次請求之間最大間隔（秒）
+  max_pages: 10         # 每次執行最多爬幾頁（安全上限）
+  targets:
+    - name: 591
+      enabled: true
+
+filter:
+  # 目標行政區（只保留這些區的物件）
+  districts:
+    - 大安區
+    - 信義區
+    - 松山區
+
+  # 月租金上限（元）
+  max_price: 28000
+
+  # 最小坪數
+  min_size_ping: 20
+
+  # 標題或特色標籤含這些關鍵字則排除
+  exclude_keywords:
+    - 頂加
+    - 隔套
+    - 車庫
+
+  # 只推播幾分鐘內新爬到的物件
+  notify_within_minutes: 120
+
+notion:
+  # database_id 從環境變數 NOTION_DATABASE_ID 讀取
+
+line:
+  # push_target 從環境變數 LINE_USER_ID 讀取
+
+map:
+  output_html: docs/map.html
+  output_json: data/listings.json
+  default_lat: 25.0330   # 台北市中心緯度
+  default_lng: 121.5654  # 台北市中心經度
+  default_zoom: 13
+
+geo:
+  # geocoding_provider: nominatim 或 google
+  # 若環境變數有 GOOGLE_GEOCODING_API_KEY 則自動切換為 google
+  geocoding_provider: nominatim
+  nominatim_user_agent: rental-detective-tw
+  mrt_data_path: src/data/mrt_stations.json
