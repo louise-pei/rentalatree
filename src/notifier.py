@@ -48,7 +48,8 @@ class LineNotifier:
         config = Configuration(access_token=channel_access_token)
         self._api_client = AsyncApiClient(config)
         self.api = AsyncMessagingApi(self._api_client)
-        self.push_target = push_target
+        # 支援逗號分隔的多個推播對象
+        self.push_targets = [t.strip() for t in push_target.split(",") if t.strip()]
 
     async def push(self, listing: dict) -> bool:
         """
@@ -56,26 +57,28 @@ class LineNotifier:
         成功回傳 True，失敗回傳 False（不拋出例外，確保主程式繼續運行）。
         """
         message_text = self._format_message(listing)
+        all_ok = True
 
-        try:
-            await self.api.push_message(
-                PushMessageRequest(
-                    to=self.push_target,
-                    messages=[TextMessage(text=message_text)],
+        for target in self.push_targets:
+            try:
+                await self.api.push_message(
+                    PushMessageRequest(
+                        to=target,
+                        messages=[TextMessage(text=message_text)],
+                    )
                 )
-            )
-            logger.info(f"LINE 推播成功：{listing.get('title', '')}")
-            return True
+                logger.info(f"LINE 推播成功：{listing.get('title', '')} → {target}")
+            except ApiException as e:
+                logger.error(
+                    f"LINE API 錯誤：{e.status} - {listing.get('title', '')}，"
+                    f"目標：{target}，回應：{e.body}"
+                )
+                all_ok = False
+            except Exception as e:
+                logger.error(f"LINE 推播失敗：{listing.get('title', '')}，目標：{target}，錯誤：{e}")
+                all_ok = False
 
-        except ApiException as e:
-            logger.error(
-                f"LINE API 錯誤：{e.status} - {listing.get('title', '')}，"
-                f"回應：{e.body}"
-            )
-            return False
-        except Exception as e:
-            logger.error(f"LINE 推播失敗：{listing.get('title', '')}，錯誤：{e}")
-            return False
+        return all_ok
 
     async def push_batch(self, listings: list[dict]) -> tuple[int, int]:
         """
