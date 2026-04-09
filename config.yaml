@@ -12,12 +12,12 @@ scraper:
 filter:
   # 目標行政區（只保留這些區的物件）
   districts:
-    - 大安區
-    - 信義區
+    - 內湖區
+    - 南港區
     - 松山區
 
   # 月租金上限（元）
-  max_price: 28000
+  max_price: 36000
 
   # 最小坪數
   min_size_ping: 20
