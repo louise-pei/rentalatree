@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   crawl:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     timeout-minutes: 30  # 防止卡住的安全上限
 
     steps:
