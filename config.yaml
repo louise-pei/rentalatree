@@ -45,7 +45,7 @@ line:
   # push_target 從環境變數 LINE_USER_ID 讀取
 
 map:
-  output_html: docs/map.html
+  output_html: docs/index.html
   output_json: data/listings.json
   default_lat: 25.0330   # 台北市中心緯度
   default_lng: 121.5654  # 台北市中心經度
