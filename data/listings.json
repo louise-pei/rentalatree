@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-04-10T09:34:53.321585+08:00",
-  "total": 2,
+  "generated_at": "2026-04-10T12:56:56.785489+08:00",
+  "total": 3,
   "listings": [
+    {
+      "id": "591_21031410",
+      "source": "591",
+      "title": "騎車4分鐘捷運昆陽/可寵、可租補、新裝潢、機能佳",
+      "price": 27500,
+      "district": "南港區",
+      "address": "南港區-南港路三段80巷",
+      "lat": 25.0549826,
+      "lng": 121.5906074,
+      "size": 31.1,
+      "room_type": "",
+      "features": [
+        "近捷運",
+        "免管理費",
+        "押金",
+        "新上架",
+        "可入籍",
+        "產權登記",
+        "租金補貼",
+        "可報稅",
+        "管理費",
+        "隨時可遷入",
+        "可養寵物",
+        "可開伙"
+      ],
+      "floor": "4F/4F",
+      "total_floors": "",
+      "nearest_mrt_station": "昆陽",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 1361,
+      "url": "https://rent.591.com.tw/21031410",
+      "images": [
+        "https://img1.591.com.tw/house/2026/04/10/177578495758829901.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/04/10/177578495761230207.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/04/10/177578495763290801.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-10T12:42:26.181747+08:00"
+    },
     {
       "id": "591_21026398",
       "source": "591",
