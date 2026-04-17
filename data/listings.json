@@ -1,7 +1,48 @@
 {
-  "generated_at": "2026-04-17T18:59:58.615442+08:00",
-  "total": 32,
+  "generated_at": "2026-04-17T21:09:08.917896+08:00",
+  "total": 33,
   "listings": [
+    {
+      "id": "591_21083443",
+      "source": "591",
+      "title": "【可報稅】近港墘捷運站，全新裝潢屋況標準三房",
+      "price": 36000,
+      "district": "內湖區",
+      "address": "內湖區-港華街",
+      "lat": 25.0830164,
+      "lng": 121.5750982,
+      "size": 30.8,
+      "room_type": "",
+      "features": [
+        "權狀",
+        "管理費",
+        "產權登記",
+        "新上架",
+        "押金",
+        "隨時可遷入",
+        "可入籍",
+        "法定用途",
+        "可養寵物",
+        "可開伙",
+        "可報稅",
+        "近捷運",
+        "免管理費",
+        "建物面積"
+      ],
+      "floor": "2F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "港墘",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 805,
+      "url": "https://rent.591.com.tw/21083443",
+      "images": [
+        "https://img2.591.com.tw/house/2026/04/17/177642813200594101.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/04/17/177642813976694200.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/04/17/177642815268564806.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-17T20:54:12.034069+08:00"
+    },
     {
       "id": "591_21079784",
       "source": "591",
