@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-04-17T09:38:30.791928+08:00",
-  "total": 31,
+  "generated_at": "2026-04-17T12:56:16.513514+08:00",
+  "total": 32,
   "listings": [
+    {
+      "id": "591_21079784",
+      "source": "591",
+      "title": "台塑園區，內科，電梯三房，全新裝修，可報稅，機能佳，採光通風",
+      "price": 28000,
+      "district": "內湖區",
+      "address": "內湖區-新明路174巷",
+      "lat": 25.0579821,
+      "lng": 121.585215,
+      "size": 25.0,
+      "room_type": "",
+      "features": [
+        "新上架",
+        "權狀",
+        "建物面積",
+        "隨時可遷入",
+        "可開伙",
+        "押金",
+        "近商圈",
+        "管理費",
+        "優選好屋",
+        "產權登記",
+        "拎包入住",
+        "法定用途",
+        "有電梯",
+        "影片房屋",
+        "可養寵物"
+      ],
+      "floor": "3F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "松山新店線-松山",
+      "nearest_mrt_line": "松山新店線",
+      "nearest_mrt_distance_m": 1160,
+      "url": "https://rent.591.com.tw/21079784",
+      "images": [
+        "https://img1.591.com.tw/video/cover/2025-10-31/2660750.png!1000x.water2.png",
+        "https://img1.591.com.tw/house/2025/10/31/176188027282848307.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2025/10/31/176188027282305600.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-17T12:41:00.187119+08:00"
+    },
     {
       "id": "591_21073591",
       "source": "591",
