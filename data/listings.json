@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-04-18T15:11:29.082531+08:00",
-  "total": 33,
+  "generated_at": "2026-04-18T16:53:17.470672+08:00",
+  "total": 34,
   "listings": [
+    {
+      "id": "591_21086985",
+      "source": "591",
+      "title": "❤【台灣永悅】近東湖站【屋況良好3樓好寓】",
+      "price": 32000,
+      "district": "內湖區",
+      "address": "內湖區-東湖路106巷9弄",
+      "lat": 25.0678186,
+      "lng": 121.6137656,
+      "size": 29.6,
+      "room_type": "",
+      "features": [
+        "隨時可遷入",
+        "近捷運",
+        "可養寵物",
+        "權狀",
+        "屋齡",
+        "建物面積",
+        "押金",
+        "法定用途",
+        "管理費",
+        "產權登記",
+        "可開伙",
+        "新上架"
+      ],
+      "floor": "3F/4F",
+      "total_floors": "",
+      "nearest_mrt_station": "葫洲",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 108,
+      "url": "https://rent.591.com.tw/21086985",
+      "images": [
+        "https://img1.591.com.tw/house/2026/03/15/177354820064067500.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/03/15/177354820066218502.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/03/15/177354820068928509.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-18T16:37:40.541787+08:00"
+    },
     {
       "id": "591_21083443",
       "source": "591",
