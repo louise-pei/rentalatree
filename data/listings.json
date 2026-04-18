@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-04-19T02:47:39.721797+08:00",
-  "total": 36,
+  "generated_at": "2026-04-19T04:39:58.645065+08:00",
+  "total": 37,
   "listings": [
+    {
+      "id": "591_21089489",
+      "source": "591",
+      "title": "時尚兩房好宅",
+      "price": 19800,
+      "district": "內湖區",
+      "address": "內湖區-新明路",
+      "lat": 25.0564036,
+      "lng": 121.5832869,
+      "size": 30.0,
+      "room_type": "",
+      "features": [
+        "產權登記",
+        "法定用途",
+        "近商圈",
+        "押金",
+        "建物面積",
+        "新上架",
+        "可開伙",
+        "拎包入住",
+        "隨時可遷入",
+        "管理費",
+        "可養寵物"
+      ],
+      "floor": "3F/3F",
+      "total_floors": "",
+      "nearest_mrt_station": "松山新店線-松山",
+      "nearest_mrt_line": "松山新店線",
+      "nearest_mrt_distance_m": 902,
+      "url": "https://rent.591.com.tw/21089489",
+      "images": [
+        "https://img1.591.com.tw/house/2026/02/10/177072846015651702.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/02/10/177072846015651702.jpg!730x460.water2.jpg",
+        "https://images.591.com.tw/index/medium/no-photo-new.png"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-19T04:25:30.747614+08:00"
+    },
     {
       "id": "591_21089303",
       "source": "591",
