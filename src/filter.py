@@ -77,7 +77,7 @@ def is_recently_crawled(listing: dict, within_minutes: int) -> bool:
 
 def _check_district(listing: dict, filter_cfg: dict) -> bool:
     """檢查行政區是否在目標清單中"""
-    allowed = filter_cfg.get("districts", [])
+    allowed = [d for d in filter_cfg.get("districts", []) if d]
     if not allowed:
         return True  # 未設定則不限制
 

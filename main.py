@@ -86,6 +86,7 @@ async def main():
     from src.geo import load_mrt_stations, find_nearest_mrt, geocode
     from src.filter import passes_filter
     from src.crawlers.site_591 import Crawler591
+    from src.crawlers.site_sinyi import CrawlerSinyi
     from src.map_generator import generate_map
 
     # 初始化資料庫
@@ -108,8 +109,10 @@ async def main():
 
         all_listings = []
 
-        # 591 爬蟲（未來新增爬蟲只需在此加入）
-        if any(str(t["name"]) == "591" and t.get("enabled", True) for t in scraper_cfg.get("targets", [{"name": "591"}])):
+        targets = scraper_cfg.get("targets", [{"name": "591"}])
+
+        # 591 爬蟲
+        if any(str(t["name"]) == "591" and t.get("enabled", True) for t in targets):
             try:
                 crawler = Crawler591(scraper_cfg)
                 listings_591 = await crawler.fetch_listings()
@@ -117,6 +120,16 @@ async def main():
                 logger.info(f"591 爬取完成：{len(listings_591)} 筆")
             except Exception as e:
                 logger.error(f"591 爬蟲失敗：{e}", exc_info=True)
+
+        # 信義房屋爬蟲
+        if any(str(t["name"]) == "sinyi" and t.get("enabled", True) for t in targets):
+            try:
+                crawler = CrawlerSinyi(scraper_cfg)
+                listings_sinyi = await crawler.fetch_listings()
+                all_listings.extend(listings_sinyi)
+                logger.info(f"信義房屋爬取完成：{len(listings_sinyi)} 筆")
+            except Exception as e:
+                logger.error(f"信義房屋爬蟲失敗：{e}", exc_info=True)
 
         logger.info(f"爬蟲階段完成，共 {len(all_listings)} 筆原始資料")
 

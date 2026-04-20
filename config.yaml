@@ -8,6 +8,8 @@ scraper:
   targets:
     - name: 591
       enabled: true
+    - name: sinyi
+      enabled: true
 
 filter:
   # 目標行政區（只保留這些區的物件）
