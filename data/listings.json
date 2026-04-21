@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-04-21T21:14:59.563113+08:00",
-  "total": 47,
+  "generated_at": "2026-04-21T23:20:10.620723+08:00",
+  "total": 48,
   "listings": [
+    {
+      "id": "591_21107430",
+      "source": "591",
+      "title": "南京復興4分.台北小巨蛋.復興北路.敦化北路.長春路.慶城街",
+      "price": 33000,
+      "district": "松山區",
+      "address": "松山區-南京東路三段",
+      "lat": 25.0519105,
+      "lng": 121.5450129,
+      "size": 20.3,
+      "room_type": "",
+      "features": [
+        "可養寵物",
+        "產權登記",
+        "建物面積",
+        "隨時可遷入",
+        "近商圈",
+        "可開伙",
+        "拎包入住",
+        "有電梯",
+        "押金",
+        "管理費",
+        "法定用途",
+        "新上架",
+        "近捷運"
+      ],
+      "floor": "4F/7F",
+      "total_floors": "",
+      "nearest_mrt_station": "南京復興",
+      "nearest_mrt_line": "松山新店線",
+      "nearest_mrt_distance_m": 203,
+      "url": "https://rent.591.com.tw/21107430",
+      "images": [
+        "https://img2.591.com.tw/house/2025/12/16/176581541924311308.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2025/12/16/176581541928887803.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2025/12/16/176581541926393704.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-21T23:04:57.929905+08:00"
+    },
     {
       "id": "591_21103648",
       "source": "591",
