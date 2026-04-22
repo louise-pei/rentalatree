@@ -1,7 +1,48 @@
 {
-  "generated_at": "2026-04-22T17:27:16.798029+08:00",
-  "total": 52,
+  "generated_at": "2026-04-22T19:13:19.073290+08:00",
+  "total": 53,
   "listings": [
+    {
+      "id": "591_21112932",
+      "source": "591",
+      "title": "免佣）中研院【超值2房2廳】可寵物★有廚房★房皆有窗",
+      "price": 27498,
+      "district": "南港區",
+      "address": "南港區-舊莊街一段",
+      "lat": 25.0371917,
+      "lng": 121.6238671,
+      "size": 23.0,
+      "room_type": "",
+      "features": [
+        "押金",
+        "可養寵物",
+        "免服務費",
+        "隨時可遷入",
+        "租金含",
+        "優選好屋",
+        "管理費",
+        "建物面積",
+        "產權登記",
+        "新上架",
+        "拎包入住",
+        "可開伙",
+        "近商圈",
+        "法定用途"
+      ],
+      "floor": "3F/4F",
+      "total_floors": "",
+      "nearest_mrt_station": "南港展覽館",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 2171,
+      "url": "https://rent.591.com.tw/21112932",
+      "images": [
+        "https://img2.591.com.tw/house/2026/01/23/176913139967892701.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/01/23/176913139954819605.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/01/23/176913139973916700.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-22T18:57:23.700399+08:00"
+    },
     {
       "id": "591_21112699",
       "source": "591",
