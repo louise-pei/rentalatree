@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-04-23T15:38:26.564712+08:00",
-  "total": 55,
+  "generated_at": "2026-04-23T17:35:03.712088+08:00",
+  "total": 56,
   "listings": [
+    {
+      "id": "591_21118566",
+      "source": "591",
+      "title": "金瑞公園／新裝潢3房2衛。可貓。台電。機能強",
+      "price": 31998,
+      "district": "內湖區",
+      "address": "內湖區-內湖路三段329巷10弄",
+      "lat": 25.0881364,
+      "lng": 121.5843031,
+      "size": 33.1,
+      "room_type": "",
+      "features": [
+        "管理費",
+        "押金",
+        "新上架",
+        "建物面積",
+        "產權登記",
+        "法定用途",
+        "隨時可遷入",
+        "可開伙",
+        "可養寵物",
+        "近商圈"
+      ],
+      "floor": "5F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "港墘",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 1597,
+      "url": "https://rent.591.com.tw/21118566",
+      "images": [
+        "https://img2.591.com.tw/house/2026/04/22/177682603695609900.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/04/22/177682603693934008.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/04/22/177682603694089404.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-23T17:18:07.308401+08:00"
+    },
     {
       "id": "591_21116480",
       "source": "591",
