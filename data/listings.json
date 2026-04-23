@@ -1,7 +1,48 @@
 {
-  "generated_at": "2026-04-23T17:35:03.712088+08:00",
-  "total": 56,
+  "generated_at": "2026-04-23T19:16:47.553496+08:00",
+  "total": 57,
   "listings": [
+    {
+      "id": "591_21119744",
+      "source": "591",
+      "title": "美樂*近南軟站*採光挑高設計1+1房*社區管理*含管",
+      "price": 35000,
+      "district": "南港區",
+      "address": "南港區-重陽路",
+      "lat": 25.0594295,
+      "lng": 121.6105098,
+      "size": 23.6,
+      "room_type": "",
+      "features": [
+        "新上架",
+        "押金",
+        "拎包入住",
+        "權狀",
+        "產權登記",
+        "可養寵物",
+        "近捷運",
+        "可開伙",
+        "有電梯",
+        "建物面積",
+        "法定用途",
+        "租金含",
+        "隨時可遷入",
+        "優選好屋"
+      ],
+      "floor": "6F/9F",
+      "total_floors": "",
+      "nearest_mrt_station": "南港軟體園區",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 374,
+      "url": "https://rent.591.com.tw/21119744",
+      "images": [
+        "https://img1.591.com.tw/house/2026/04/23/177693683133480505.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/04/23/177693683130200803.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/04/23/177693683125055205.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-23T19:01:06.698008+08:00"
+    },
     {
       "id": "591_21118566",
       "source": "591",
