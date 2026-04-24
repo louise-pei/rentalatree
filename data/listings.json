@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-04-24T17:38:46.791275+08:00",
-  "total": 57,
+  "generated_at": "2026-04-24T19:14:25.749559+08:00",
+  "total": 58,
   "listings": [
+    {
+      "id": "591_21126169",
+      "source": "591",
+      "title": "東湖邊間大4房",
+      "price": 33000,
+      "district": "內湖區",
+      "address": "內湖區-康樂街",
+      "lat": 25.068761,
+      "lng": 121.618418,
+      "size": 45.0,
+      "room_type": "",
+      "features": [
+        "可養寵物",
+        "可開伙",
+        "產權登記",
+        "建物面積",
+        "新上架",
+        "法定用途",
+        "管理費",
+        "可入籍",
+        "租金補貼",
+        "押金"
+      ],
+      "floor": "4F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "文湖",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 369,
+      "url": "https://rent.591.com.tw/21126169",
+      "images": [
+        "https://img2.591.com.tw/house/2026/04/24/177702374537984404.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/04/24/177702374537168909.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/04/24/177702374538038302.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-24T18:58:44.337693+08:00"
+    },
     {
       "id": "591_21119744",
       "source": "591",
