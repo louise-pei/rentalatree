@@ -1,7 +1,48 @@
 {
-  "generated_at": "2026-04-25T16:57:19.025377+08:00",
-  "total": 60,
+  "generated_at": "2026-04-25T18:50:15.773872+08:00",
+  "total": 61,
   "listings": [
+    {
+      "id": "591_21131573",
+      "source": "591",
+      "title": "禁菸/可雙租補報稅不加價/台水台電台瓦斯",
+      "price": 22000,
+      "district": "內湖區",
+      "address": "內湖區-安泰街45巷14弄",
+      "lat": 25.0744769,
+      "lng": 121.6178439,
+      "size": 20.0,
+      "room_type": "",
+      "features": [
+        "可開伙",
+        "可養寵物",
+        "新上架",
+        "隨時可遷入",
+        "影片房屋",
+        "可入籍",
+        "法定用途",
+        "產權登記",
+        "租金含",
+        "可報稅",
+        "租金補貼",
+        "拎包入住",
+        "建物面積",
+        "押金"
+      ],
+      "floor": "5F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "鯉魚山",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 208,
+      "url": "https://rent.591.com.tw/21131573",
+      "images": [
+        "https://img1.591.com.tw/video/cover/2024-08-25/1361720.png!1000x.water2.png",
+        "https://img2.591.com.tw/house/2024/10/30/173026330355968603.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2024/08/25/172455929257714401.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-25T18:34:29.068215+08:00"
+    },
     {
       "id": "591_21128550",
       "source": "591",
