@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-04-28T10:06:45.947933+08:00",
-  "total": 78,
+  "generated_at": "2026-04-28T13:39:04.292919+08:00",
+  "total": 79,
   "listings": [
+    {
+      "id": "591_20436304",
+      "source": "591",
+      "title": "兆基社會住宅🏠友善屋源🧡魔術大空間",
+      "price": 25000,
+      "district": "內湖區",
+      "address": "內湖區-安泰街114巷",
+      "lat": 25.077475,
+      "lng": 121.6151757,
+      "size": 22.3,
+      "room_type": "",
+      "features": [
+        "法定用途",
+        "隨時可遷入",
+        "管理費",
+        "可開伙",
+        "可入籍",
+        "押金",
+        "權狀",
+        "社會住宅",
+        "建物面積",
+        "產權登記",
+        "新上架",
+        "可報稅",
+        "可養寵物",
+        "租金補貼",
+        "免服務費"
+      ],
+      "floor": "5F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "鯉魚山",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 567,
+      "url": "https://rent.591.com.tw/20436304",
+      "images": [
+        "https://img1.591.com.tw/house/2026/01/02/176734506899673300.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/01/02/176734506848997304.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/01/02/176734506888664802.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-28T13:22:26.744719+08:00"
+    },
     {
       "id": "591_21144940",
       "source": "591",
