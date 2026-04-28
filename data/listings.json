@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-04-28T16:20:48.524489+08:00",
-  "total": 81,
+  "generated_at": "2026-04-28T19:46:46.202282+08:00",
+  "total": 82,
   "listings": [
+    {
+      "id": "591_21150878",
+      "source": "591",
+      "title": "CL106803🌟民生社區電梯2房溫馨住宅🌟",
+      "price": 30000,
+      "district": "松山區",
+      "address": "松山區-富錦街",
+      "lat": 25.0606869,
+      "lng": 121.5601468,
+      "size": 22.0,
+      "room_type": "",
+      "features": [
+        "租金含",
+        "建物面積",
+        "可養寵物",
+        "拎包入住",
+        "有電梯",
+        "法定用途",
+        "可開伙",
+        "新上架",
+        "產權登記",
+        "押金"
+      ],
+      "floor": "8F/8F",
+      "total_floors": "",
+      "nearest_mrt_station": "南京三民",
+      "nearest_mrt_line": "松山新店線",
+      "nearest_mrt_distance_m": 1122,
+      "url": "https://rent.591.com.tw/21150878",
+      "images": [
+        "https://img2.591.com.tw/house/2026/04/28/177737325408344402.png!1000x.water2.png",
+        "https://img2.591.com.tw/house/2026/04/28/177737325346525607.png!1000x.water2.png",
+        "https://img1.591.com.tw/house/2026/04/28/177737325371448806.png!1000x.water2.png"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-28T19:31:29.576283+08:00"
+    },
     {
       "id": "591_21148278",
       "source": "591",
