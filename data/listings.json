@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-04-29T07:00:55.691052+08:00",
-  "total": 82,
+  "generated_at": "2026-04-29T10:09:26.204633+08:00",
+  "total": 83,
   "listings": [
+    {
+      "id": "591_19921921",
+      "source": "591",
+      "title": "寵物❤停車方便❤鬧中取靜❤大空間",
+      "price": 26000,
+      "district": "內湖區",
+      "address": "內湖區-安康路226巷",
+      "lat": 25.0629339,
+      "lng": 121.6029888,
+      "size": 28.0,
+      "room_type": "",
+      "features": [
+        "可開伙",
+        "產權登記",
+        "拎包入住",
+        "免管理費",
+        "隨時可遷入",
+        "押金",
+        "管理費",
+        "法定用途",
+        "優選好屋",
+        "新上架",
+        "可養寵物",
+        "近商圈",
+        "建物面積",
+        "朝向",
+        "南北通透"
+      ],
+      "floor": "4F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "湖科技園區",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 117,
+      "url": "https://rent.591.com.tw/19921921",
+      "images": [
+        "https://img1.591.com.tw/house/2025/08/30/175656193191189906.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2025/08/30/175656193185588808.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2025/08/30/175656193205872900.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-04-29T09:53:06.450184+08:00"
+    },
     {
       "id": "591_21150878",
       "source": "591",
