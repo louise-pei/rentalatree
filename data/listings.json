@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-05-01T10:11:21.997939+08:00",
-  "total": 92,
+  "generated_at": "2026-05-01T13:49:33.895222+08:00",
+  "total": 93,
   "listings": [
+    {
+      "id": "591_21168302",
+      "source": "591",
+      "title": "三房4樓可租補.免仲介費",
+      "price": 26000,
+      "district": "南港區",
+      "address": "南港區-研究院路二段35巷29弄",
+      "lat": 25.0464671,
+      "lng": 121.6168383,
+      "size": 24.0,
+      "room_type": "",
+      "features": [
+        "管理費",
+        "新上架",
+        "法定用途",
+        "押金",
+        "拎包入住",
+        "租金含",
+        "可開伙",
+        "產權登記",
+        "建物面積",
+        "可養寵物",
+        "隨時可遷入"
+      ],
+      "floor": "4F/4F",
+      "total_floors": "",
+      "nearest_mrt_station": "南港展覽館",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 994,
+      "url": "https://rent.591.com.tw/21168302",
+      "images": [
+        "https://img2.591.com.tw/house/2025/09/12/175764923938377103.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2025/09/12/175764923927874006.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2025/09/12/175764923933786401.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-05-01T13:34:27.968445+08:00"
+    },
     {
       "id": "591_21162168",
       "source": "591",
