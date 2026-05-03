@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-05-03T22:59:32.798738+08:00",
-  "total": 105,
+  "generated_at": "2026-05-04T00:52:02.810283+08:00",
+  "total": 106,
   "listings": [
+    {
+      "id": "591_21182722",
+      "source": "591",
+      "title": "租屋補助報稅❤大空間❤寵物❤鬧中取靜❤傢俱全❤大陽台",
+      "price": 27000,
+      "district": "內湖區",
+      "address": "內湖區-安康路226巷",
+      "lat": 25.0629339,
+      "lng": 121.6029888,
+      "size": 35.0,
+      "room_type": "",
+      "features": [
+        "建物面積",
+        "優選好屋",
+        "租金補貼",
+        "可短租",
+        "可開伙",
+        "免管理費",
+        "押金",
+        "可養寵物",
+        "南北通透",
+        "朝向",
+        "管理費",
+        "可報稅",
+        "拎包入住",
+        "新上架",
+        "可入籍"
+      ],
+      "floor": "5F/6F",
+      "total_floors": "",
+      "nearest_mrt_station": "湖科技園區",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 117,
+      "url": "https://rent.591.com.tw/21182722",
+      "images": [
+        "https://img2.591.com.tw/house/2026/05/03/177782068588314409.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/05/03/177782068574699205.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/05/03/177782068563134502.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-05-04T00:36:34.929655+08:00"
+    },
     {
       "id": "591_14909714",
       "source": "591",
