@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-05-03T16:04:41.806468+08:00",
-  "total": 104,
+  "generated_at": "2026-05-03T17:29:34.573025+08:00",
+  "total": 105,
   "listings": [
+    {
+      "id": "591_14909714",
+      "source": "591",
+      "title": "碧湖公園畔2房使用空間大",
+      "price": 26000,
+      "district": "內湖區",
+      "address": "內湖區-內湖路二段179巷",
+      "lat": 25.0833461,
+      "lng": 121.5866609,
+      "size": 23.0,
+      "room_type": "",
+      "features": [
+        "拎包入住",
+        "產權登記",
+        "押金",
+        "可開伙",
+        "建物面積",
+        "屋主直租",
+        "隨時可遷入",
+        "新上架",
+        "法定用途",
+        "可養寵物",
+        "免管理費",
+        "管理費",
+        "近捷運"
+      ],
+      "floor": "5F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "內湖",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 1237,
+      "url": "https://rent.591.com.tw/14909714",
+      "images": [
+        "https://img1.591.com.tw/house/2023/07/18/168964760288529529.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2023/07/18/168964760296211303.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2023/07/18/168964760305018639.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-05-03T17:12:44.725111+08:00"
+    },
     {
       "id": "591_21179885",
       "source": "591",
