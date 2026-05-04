@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-05-04T16:33:01.680595+08:00",
-  "total": 111,
+  "generated_at": "2026-05-04T19:58:03.324207+08:00",
+  "total": 112,
   "listings": [
+    {
+      "id": "591_21188846",
+      "source": "591",
+      "title": "捷運松山站/大樓24H管理/機能好",
+      "price": 29999,
+      "district": "松山區",
+      "address": "松山區-八德路四段",
+      "lat": 25.0501233,
+      "lng": 121.5781175,
+      "size": 20.0,
+      "room_type": "",
+      "features": [
+        "拎包入住",
+        "可開伙",
+        "可養寵物",
+        "管理費",
+        "隨時可遷入",
+        "朝向",
+        "產權登記",
+        "權狀",
+        "有電梯",
+        "押金",
+        "法定用途",
+        "建物面積",
+        "近商圈",
+        "屋齡",
+        "優選好屋"
+      ],
+      "floor": "2F/13F",
+      "total_floors": "",
+      "nearest_mrt_station": "松山新店線-松山",
+      "nearest_mrt_line": "松山新店線",
+      "nearest_mrt_distance_m": 33,
+      "url": "https://rent.591.com.tw/21188846",
+      "images": [
+        "https://img2.591.com.tw/house/2026/05/04/177788558440789309.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/05/04/177788558453630602.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/05/04/177788558457458505.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-05-04T19:42:12.030812+08:00"
+    },
     {
       "id": "591_21187379",
       "source": "591",
