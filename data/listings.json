@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-05-05T13:09:36.714433+08:00",
-  "total": 114,
+  "generated_at": "2026-05-05T16:10:49.538959+08:00",
+  "total": 115,
   "listings": [
+    {
+      "id": "591_21194553",
+      "source": "591",
+      "title": "內湖四期、新裝潢3房、現況空屋、天然瓦斯、機能強",
+      "price": 31999,
+      "district": "內湖區",
+      "address": "內湖區-成功路二段406巷",
+      "lat": 25.0708326,
+      "lng": 121.589478,
+      "size": 32.2,
+      "room_type": "",
+      "features": [
+        "可養寵物",
+        "押金",
+        "近商圈",
+        "可開伙",
+        "管理費",
+        "建物面積",
+        "法定用途",
+        "產權登記",
+        "新上架",
+        "隨時可遷入"
+      ],
+      "floor": "4F/4F",
+      "total_floors": "",
+      "nearest_mrt_station": "內湖",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 250,
+      "url": "https://rent.591.com.tw/21194553",
+      "images": [
+        "https://img1.591.com.tw/user/2025/06/18/3731426/1750234190469.jpg!100x100.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-05-05T15:53:09.141710+08:00"
+    },
     {
       "id": "591_21192765",
       "source": "591",
