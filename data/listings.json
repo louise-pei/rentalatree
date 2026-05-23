@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-05-23T06:59:23.599292+08:00",
-  "total": 126,
+  "generated_at": "2026-05-23T09:59:46.523768+08:00",
+  "total": 127,
   "listings": [
+    {
+      "id": "591_21310904",
+      "source": "591",
+      "title": "住ˋ辦東湖國小東湖市場旁有電梯",
+      "price": 36000,
+      "district": "內湖區",
+      "address": "內湖區-東湖路",
+      "lat": 25.0688539,
+      "lng": 121.6130772,
+      "size": 22.0,
+      "room_type": "",
+      "features": [
+        "近捷運",
+        "新上架",
+        "有電梯",
+        "隨時可遷入",
+        "可開伙",
+        "可養寵物"
+      ],
+      "floor": "4F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "葫洲",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 63,
+      "url": "https://rent.591.com.tw/21310904",
+      "images": [],
+      "posted_at": null,
+      "crawled_at": "2026-05-23T09:56:34.748221+08:00"
+    },
     {
       "id": "591_21306640",
       "source": "591",
