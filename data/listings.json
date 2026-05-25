@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-05-25T16:12:42.587692+08:00",
-  "total": 129,
+  "generated_at": "2026-05-25T21:01:39.058148+08:00",
+  "total": 130,
   "listings": [
+    {
+      "id": "591_21324509",
+      "source": "591",
+      "title": "近捷運松山、成美橋／全新2房2廳。可補助/寵物/入籍。雙陽台",
+      "price": 31998,
+      "district": "內湖區",
+      "address": "內湖區-新明路380巷3弄",
+      "lat": 25.0553494,
+      "lng": 121.5806081,
+      "size": 24.0,
+      "room_type": "",
+      "features": [
+        "近捷運",
+        "新上架",
+        "近商圈",
+        "隨時可遷入",
+        "可開伙",
+        "可養寵物"
+      ],
+      "floor": "2F/4F",
+      "total_floors": "",
+      "nearest_mrt_station": "松山新店線-松山",
+      "nearest_mrt_line": "松山新店線",
+      "nearest_mrt_distance_m": 662,
+      "url": "https://rent.591.com.tw/21324509",
+      "images": [],
+      "posted_at": null,
+      "crawled_at": "2026-05-25T20:55:58.966615+08:00"
+    },
     {
       "id": "591_21312753",
       "source": "591",
