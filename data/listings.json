@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-05-26T22:38:35.345824+08:00",
-  "total": 131,
+  "generated_at": "2026-05-27T02:23:02.468049+08:00",
+  "total": 132,
   "listings": [
+    {
+      "id": "591_21331570",
+      "source": "591",
+      "title": "內湖五期、全新裝潢2房、可寵/可租補、現況空屋、機能強",
+      "price": 31998,
+      "district": "內湖區",
+      "address": "內湖區-新明路380巷3弄",
+      "lat": 25.0553494,
+      "lng": 121.5806081,
+      "size": 25.0,
+      "room_type": "",
+      "features": [
+        "近捷運",
+        "新上架",
+        "近商圈",
+        "隨時可遷入",
+        "可開伙",
+        "可養寵物"
+      ],
+      "floor": "2F/4F",
+      "total_floors": "",
+      "nearest_mrt_station": "松山新店線-松山",
+      "nearest_mrt_line": "松山新店線",
+      "nearest_mrt_distance_m": 662,
+      "url": "https://rent.591.com.tw/21331570",
+      "images": [],
+      "posted_at": null,
+      "crawled_at": "2026-05-27T02:16:25.650824+08:00"
+    },
     {
       "id": "591_21327067",
       "source": "591",
