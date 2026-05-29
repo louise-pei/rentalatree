@@ -1,7 +1,48 @@
 {
-  "generated_at": "2026-05-30T02:27:32.208967+08:00",
-  "total": 139,
+  "generated_at": "2026-05-30T06:01:29.988926+08:00",
+  "total": 140,
   "listings": [
+    {
+      "id": "591_21353240",
+      "source": "591",
+      "title": "南港成福路大馬路上-住家店面『租屋買房永慶小鍾』",
+      "price": 30000,
+      "district": "南港區",
+      "address": "南港區-成福路",
+      "lat": 25.041876,
+      "lng": 121.5874763,
+      "size": 21.1,
+      "room_type": "",
+      "features": [
+        "朝向",
+        "屋齡",
+        "AI影音講房",
+        "產權登記",
+        "租金含",
+        "押金",
+        "隨時可遷入",
+        "可養寵物",
+        "新上架",
+        "可開伙",
+        "近捷運",
+        "影片房屋",
+        "有電梯",
+        "權狀"
+      ],
+      "floor": "1F/6F",
+      "total_floors": "",
+      "nearest_mrt_station": "後山埤",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 446,
+      "url": "https://rent.591.com.tw/21353240?is_ai_video=1",
+      "images": [
+        "https://img1.591.com.tw/video/cover/2026-05-29/3104682.png!1000x.water2.png",
+        "https://img2.591.com.tw/house/2026/04/07/177555259811593803.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/04/07/177555259848725502.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-05-30T05:43:55.559237+08:00"
+    },
     {
       "id": "591_21345517",
       "source": "591",
