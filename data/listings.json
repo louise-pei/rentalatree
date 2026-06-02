@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-06-02T22:00:34.769332+08:00",
-  "total": 151,
+  "generated_at": "2026-06-03T02:07:37.906703+08:00",
+  "total": 152,
   "listings": [
+    {
+      "id": "591_21379918",
+      "source": "591",
+      "title": "昆陽站可寵物採光佳溫馨小資族二房可代收垃圾可炊煮大空間",
+      "price": 30000,
+      "district": "南港區",
+      "address": "南港區-南港路三段80巷",
+      "lat": 25.0549826,
+      "lng": 121.5906074,
+      "size": 28.8,
+      "room_type": "",
+      "features": [
+        "新上架",
+        "拎包入住",
+        "隨時可遷入",
+        "可養寵物",
+        "建物面積",
+        "近商圈",
+        "押金",
+        "近捷運",
+        "法定用途",
+        "可開伙",
+        "產權登記",
+        "管理費",
+        "優選好屋"
+      ],
+      "floor": "4F/4F",
+      "total_floors": "",
+      "nearest_mrt_station": "昆陽",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 1361,
+      "url": "https://rent.591.com.tw/21379918",
+      "images": [
+        "https://img1.591.com.tw/house/2026/06/02/178041304633221401.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/06/02/178041304631189401.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/06/02/178041304633730302.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-06-03T01:59:39.607652+08:00"
+    },
     {
       "id": "591_21372923",
       "source": "591",
