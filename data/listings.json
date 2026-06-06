@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-06-06T10:03:04.327441+08:00",
-  "total": 155,
+  "generated_at": "2026-06-06T14:49:13.570927+08:00",
+  "total": 156,
   "listings": [
+    {
+      "id": "591_21403813",
+      "source": "591",
+      "title": "麗山公園【超值2房2廳】寵洽★免爬梯★房皆有窗",
+      "price": 19490,
+      "district": "南港區",
+      "address": "南港區-研究院路四段",
+      "lat": 25.0191466,
+      "lng": 121.5949988,
+      "size": 24.0,
+      "room_type": "",
+      "features": [
+        "新上架",
+        "近商圈",
+        "可開伙",
+        "可養寵物"
+      ],
+      "floor": "1F/2F",
+      "total_floors": "",
+      "nearest_mrt_station": "後山埤",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 2517,
+      "url": "https://rent.591.com.tw/21403813",
+      "images": [],
+      "posted_at": null,
+      "crawled_at": "2026-06-06T14:46:11.423993+08:00"
+    },
     {
       "id": "591_21400969",
       "source": "591",
