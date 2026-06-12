@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-06-12T07:19:28.290772+08:00",
-  "total": 180,
+  "generated_at": "2026-06-12T10:33:12.795440+08:00",
+  "total": 181,
   "listings": [
+    {
+      "id": "591_21372871",
+      "source": "591",
+      "title": "金湖路優質家庭宅｜3房2廳2衛｜近AIT、捷運站步行3分鐘",
+      "price": 29000,
+      "district": "內湖區",
+      "address": "內湖區-金湖路",
+      "lat": 25.0733867,
+      "lng": 121.6057726,
+      "size": 33.0,
+      "room_type": "",
+      "features": [
+        "法定用途",
+        "可使用面積",
+        "免管理費",
+        "開伙",
+        "其他特色",
+        "新上架",
+        "裝潢時間",
+        "屋主直租",
+        "押金",
+        "屋齡",
+        "產權登記",
+        "近捷運",
+        "管理費",
+        "養寵物",
+        "租金"
+      ],
+      "floor": "整棟/1F",
+      "total_floors": "",
+      "nearest_mrt_station": "大湖公園",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 810,
+      "url": "https://rent.591.com.tw/21372871",
+      "images": [
+        "https://img2.591.com.tw/house/2026/06/02/178036140599519700.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/06/02/178036140594414007.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/06/02/178036140596054603.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-06-12T10:28:06.864805+08:00"
+    },
     {
       "id": "591_21435883",
       "source": "591",
