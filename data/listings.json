@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-06-14T01:10:43.211240+08:00",
-  "total": 182,
+  "generated_at": "2026-06-14T03:15:38.700929+08:00",
+  "total": 183,
   "listings": [
+    {
+      "id": "591_21450666",
+      "source": "591",
+      "title": "昆陽、台塑園區、電梯、收垃圾、採光",
+      "price": 28000,
+      "district": "內湖區",
+      "address": "內湖區-新明路",
+      "lat": 25.0564036,
+      "lng": 121.5832869,
+      "size": 20.0,
+      "room_type": "",
+      "features": [
+        "有電梯",
+        "租金含",
+        "產權登記",
+        "其他特色",
+        "最短租期",
+        "押金",
+        "可開伙",
+        "養寵物",
+        "可遷入日",
+        "身份要求",
+        "法定用途",
+        "電梯",
+        "隨時可遷入",
+        "新上架",
+        "租金"
+      ],
+      "floor": "6F/7F",
+      "total_floors": "",
+      "nearest_mrt_station": "松山新店線-松山",
+      "nearest_mrt_line": "松山新店線",
+      "nearest_mrt_distance_m": 902,
+      "url": "https://rent.591.com.tw/21450666",
+      "images": [
+        "https://img1.591.com.tw/house/2026/06/13/178135977803202809.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/06/13/178135977858745902.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/06/13/178135977821291302.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-06-14T03:06:23.920300+08:00"
+    },
     {
       "id": "591_21448200",
       "source": "591",
