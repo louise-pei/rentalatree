@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-06-20T00:29:05.421666+08:00",
-  "total": 216,
+  "generated_at": "2026-06-20T03:30:31.811734+08:00",
+  "total": 217,
   "listings": [
+    {
+      "id": "591_21484776",
+      "source": "591",
+      "title": "南港/可租補/生活機能好",
+      "price": 29999,
+      "district": "南港區",
+      "address": "南港區-興中路80巷",
+      "lat": 25.0573995,
+      "lng": 121.6061573,
+      "size": 26.0,
+      "room_type": "",
+      "features": [
+        "裝潢程度",
+        "影片賞屋",
+        "新上架",
+        "裝潢時間",
+        "最短租期",
+        "押金",
+        "租金",
+        "身份要求",
+        "服務費",
+        "法定用途",
+        "產權登記",
+        "可使用面積",
+        "養寵物",
+        "開伙",
+        "租金補貼"
+      ],
+      "floor": "3F/4F",
+      "total_floors": "",
+      "nearest_mrt_station": "南港",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 447,
+      "url": "https://rent.591.com.tw/21484776",
+      "images": [
+        "https://img2.591.com.tw/video/cover/2026-01-12/2887869.png!1000x.water2.png",
+        "https://img1.591.com.tw/house/2026/01/12/176816299748650000.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/01/12/176816299749765307.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-06-20T03:24:18.011670+08:00"
+    },
     {
       "id": "591_21483327",
       "source": "591",
