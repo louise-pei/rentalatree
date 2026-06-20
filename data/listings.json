@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-06-20T23:30:32.765046+08:00",
-  "total": 218,
+  "generated_at": "2026-06-21T01:21:35.058206+08:00",
+  "total": 219,
   "listings": [
+    {
+      "id": "591_21489622",
+      "source": "591",
+      "title": "台塑園區.垃圾代收.流理台.乾濕分離",
+      "price": 27999,
+      "district": "內湖區",
+      "address": "內湖區-新明路",
+      "lat": 25.0564036,
+      "lng": 121.5832869,
+      "size": 20.0,
+      "room_type": "",
+      "features": [
+        "可使用面積",
+        "押金",
+        "法定用途",
+        "可開伙",
+        "近商圈",
+        "養寵物",
+        "電梯",
+        "可遷入日",
+        "優選好屋",
+        "新上架",
+        "身份要求",
+        "租金",
+        "產權登記",
+        "隨時可遷入",
+        "開伙"
+      ],
+      "floor": "6F/7F",
+      "total_floors": "",
+      "nearest_mrt_station": "松山新店線-松山",
+      "nearest_mrt_line": "松山新店線",
+      "nearest_mrt_distance_m": 902,
+      "url": "https://rent.591.com.tw/21489622",
+      "images": [
+        "https://img1.591.com.tw/house/2024/04/27/171419791160933902.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2024/04/27/171419791162349100.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2024/04/27/171419791160497102.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-06-21T01:15:05.523176+08:00"
+    },
     {
       "id": "591_21487604",
       "source": "591",
