@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-06-20T10:19:31.968614+08:00",
-  "total": 217,
+  "generated_at": "2026-06-20T15:51:33.562279+08:00",
+  "total": 218,
   "listings": [
+    {
+      "id": "591_21487604",
+      "source": "591",
+      "title": "民生社區、一樓大空間、靜巷、可住辦",
+      "price": 32000,
+      "district": "松山區",
+      "address": "松山區-撫遠街389巷",
+      "lat": 25.065092,
+      "lng": 121.5668391,
+      "size": 26.0,
+      "room_type": "",
+      "features": [
+        "可開伙",
+        "建物面積",
+        "法定用途",
+        "養寵物",
+        "可使用面積",
+        "可遷入日",
+        "其他特色",
+        "隨時可遷入",
+        "租金",
+        "電梯",
+        "服務費",
+        "開伙",
+        "陽台",
+        "身份要求",
+        "押金"
+      ],
+      "floor": "1F/4F",
+      "total_floors": "",
+      "nearest_mrt_station": "港墘",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 1509,
+      "url": "https://rent.591.com.tw/21487604",
+      "images": [
+        "https://img2.591.com.tw/house/2026/06/04/178055995463366502.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/06/04/178055995462766503.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/06/04/178055995465861103.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-06-20T15:41:46.476946+08:00"
+    },
     {
       "id": "591_21484776",
       "source": "591",
