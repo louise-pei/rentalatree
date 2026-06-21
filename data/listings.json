@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-06-21T10:41:04.970917+08:00",
-  "total": 219,
+  "generated_at": "2026-06-21T16:26:23.871977+08:00",
+  "total": 220,
   "listings": [
+    {
+      "id": "591_21491876",
+      "source": "591",
+      "title": "內湖/碧湖國小，超值採光3房，可寵/獨洗陽台/租補入籍洽",
+      "price": 23990,
+      "district": "內湖區",
+      "address": "內湖區-金龍路",
+      "lat": 25.084997,
+      "lng": 121.5926663,
+      "size": 29.0,
+      "room_type": "",
+      "features": [
+        "新上架",
+        "近商圈",
+        "隨時可遷入",
+        "可開伙",
+        "可養寵物",
+        "可入籍"
+      ],
+      "floor": "頂樓加蓋/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "內湖",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 1510,
+      "url": "https://rent.591.com.tw/21491876",
+      "images": [],
+      "posted_at": null,
+      "crawled_at": "2026-06-21T16:20:44.310770+08:00"
+    },
     {
       "id": "591_21489622",
       "source": "591",
