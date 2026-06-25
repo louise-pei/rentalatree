@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-06-25T10:08:42.115946+08:00",
-  "total": 230,
+  "generated_at": "2026-06-25T15:36:59.111267+08:00",
+  "total": 231,
   "listings": [
+    {
+      "id": "591_21518760",
+      "source": "591",
+      "title": "中研院【超值3房1廳】可補助★房皆有窗★報稅入籍",
+      "price": 27998,
+      "district": "南港區",
+      "address": "南港區-舊莊街一段",
+      "lat": 25.0371917,
+      "lng": 121.6238671,
+      "size": 23.0,
+      "room_type": "",
+      "features": [
+        "拎包入住",
+        "可報稅",
+        "可使用面積",
+        "產權登記",
+        "近商圈",
+        "最短租期",
+        "電梯",
+        "可入籍",
+        "服務費",
+        "其他特色",
+        "建物面積",
+        "優選好屋",
+        "身份要求",
+        "可養寵物",
+        "開伙"
+      ],
+      "floor": "4F/4F",
+      "total_floors": "",
+      "nearest_mrt_station": "南港展覽館",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 2171,
+      "url": "https://rent.591.com.tw/21518760",
+      "images": [
+        "https://img1.591.com.tw/house/2026/06/25/178236581581714907.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/06/25/178236581590800003.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/06/25/178236581589376204.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-06-25T15:32:50.417789+08:00"
+    },
     {
       "id": "591_21512845",
       "source": "591",
