@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-06-26T03:45:42.394070+08:00",
-  "total": 231,
+  "generated_at": "2026-06-26T05:24:27.256505+08:00",
+  "total": 232,
   "listings": [
+    {
+      "id": "591_21521720",
+      "source": "591",
+      "title": "聯合二村三房美寓，長短租皆可！",
+      "price": 35000,
+      "district": "松山區",
+      "address": "松山區-新中街6巷",
+      "lat": 25.0583213,
+      "lng": 121.5610827,
+      "size": 36.2,
+      "room_type": "",
+      "features": [
+        "可使用面積",
+        "新上架",
+        "最短租期",
+        "建物面積",
+        "電梯",
+        "法定用途",
+        "產權登記",
+        "押金",
+        "其他特色",
+        "可遷入日",
+        "可開伙",
+        "養寵物",
+        "開伙",
+        "隨時可遷入",
+        "朝向"
+      ],
+      "floor": "2F/4F",
+      "total_floors": "",
+      "nearest_mrt_station": "南京三民",
+      "nearest_mrt_line": "松山新店線",
+      "nearest_mrt_distance_m": 939,
+      "url": "https://rent.591.com.tw/21521720",
+      "images": [
+        "https://img2.591.com.tw/house/2026/06/18/178174883495270002.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/06/18/178174970182792404.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/06/18/178174970178952508.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-06-26T05:20:58.074186+08:00"
+    },
     {
       "id": "591_21518760",
       "source": "591",
