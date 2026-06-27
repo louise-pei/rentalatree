@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-06-27T10:05:04.328405+08:00",
-  "total": 238,
+  "generated_at": "2026-06-27T14:50:41.338145+08:00",
+  "total": 239,
   "listings": [
+    {
+      "id": "591_21528905",
+      "source": "591",
+      "title": "💫電梯管理.採光.可寵.代收垃圾.兩房.中山國中",
+      "price": 30000,
+      "district": "松山區",
+      "address": "松山區-民權東路三段160巷19弄",
+      "lat": 25.0599888,
+      "lng": 121.5481595,
+      "size": 20.0,
+      "room_type": "",
+      "features": [
+        "近捷運",
+        "新上架",
+        "拎包入住",
+        "有電梯",
+        "隨時可遷入",
+        "可開伙"
+      ],
+      "floor": "頂樓加蓋/7F",
+      "total_floors": "",
+      "nearest_mrt_station": "台北小巨蛋",
+      "nearest_mrt_line": "松山新店線",
+      "nearest_mrt_distance_m": 964,
+      "url": "https://rent.591.com.tw/21528905",
+      "images": [],
+      "posted_at": null,
+      "crawled_at": "2026-06-27T14:46:11.295704+08:00"
+    },
     {
       "id": "591_21528219",
       "source": "591",
