@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-06-29T04:56:38.261923+08:00",
-  "total": 243,
+  "generated_at": "2026-06-29T07:00:29.692517+08:00",
+  "total": 244,
   "listings": [
+    {
+      "id": "591_21535669",
+      "source": "591",
+      "title": "K140779國防醫學院三總✫泳池社區|拎包入住舒適一房",
+      "price": 36000,
+      "district": "內湖區",
+      "address": "內湖區-民權東路六段115巷",
+      "lat": 25.0694546,
+      "lng": 121.5919217,
+      "size": 21.0,
+      "room_type": "",
+      "features": [
+        "建物面積",
+        "服務費",
+        "產權登記",
+        "有車位",
+        "拎包入住",
+        "有電梯",
+        "開伙",
+        "新上架",
+        "車位",
+        "電梯",
+        "隨時可遷入",
+        "養寵物",
+        "管理費",
+        "法定用途",
+        "租金"
+      ],
+      "floor": "5F/7F",
+      "total_floors": "",
+      "nearest_mrt_station": "文德",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 426,
+      "url": "https://rent.591.com.tw/21535669",
+      "images": [
+        "https://img2.591.com.tw/house/2026/06/28/178265078517551907.png!1000x.water2.png",
+        "https://img2.591.com.tw/house/2026/06/28/178265078489624800.png!1000x.water2.png",
+        "https://img2.591.com.tw/house/2026/06/28/178265078499435800.png!1000x.water2.png"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-06-29T06:53:18.650524+08:00"
+    },
     {
       "id": "591_21534353",
       "source": "591",
