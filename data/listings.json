@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-07-02T03:29:10.733953+08:00",
-  "total": 249,
+  "generated_at": "2026-07-02T05:19:28.625493+08:00",
+  "total": 250,
   "listings": [
+    {
+      "id": "591_21559125",
+      "source": "591",
+      "title": "近南港路，交通便利誠可議",
+      "price": 33000,
+      "district": "南港區",
+      "address": "南港區-重陽路",
+      "lat": 25.0594295,
+      "lng": 121.6105098,
+      "size": 31.8,
+      "room_type": "",
+      "features": [
+        "新上架",
+        "租金補貼",
+        "可報稅",
+        "可開伙",
+        "可養寵物",
+        "可入籍"
+      ],
+      "floor": "4F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "南港軟體園區",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 374,
+      "url": "https://rent.591.com.tw/21559125",
+      "images": [],
+      "posted_at": null,
+      "crawled_at": "2026-07-02T05:15:55.494922+08:00"
+    },
     {
       "id": "591_21553975",
       "source": "591",
