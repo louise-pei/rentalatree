@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-07-05T09:56:18.750033+08:00",
-  "total": 255,
+  "generated_at": "2026-07-05T13:57:09.611106+08:00",
+  "total": 256,
   "listings": [
+    {
+      "id": "591_21576637",
+      "source": "591",
+      "title": "好宅租管【好宅住好宅】內科新貴兩房|西湖捷運|天然瓦斯",
+      "price": 35000,
+      "district": "內湖區",
+      "address": "內湖區-內湖路一段285巷69弄",
+      "lat": 25.0847212,
+      "lng": 121.5698605,
+      "size": 20.0,
+      "room_type": "",
+      "features": [
+        "新上架",
+        "近商圈",
+        "有電梯",
+        "隨時可遷入",
+        "可開伙",
+        "可養寵物"
+      ],
+      "floor": "3F/7F",
+      "total_floors": "",
+      "nearest_mrt_station": "西湖",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 912,
+      "url": "https://rent.591.com.tw/21576637",
+      "images": [],
+      "posted_at": null,
+      "crawled_at": "2026-07-05T13:54:52.489285+08:00"
+    },
     {
       "id": "591_21575888",
       "source": "591",
