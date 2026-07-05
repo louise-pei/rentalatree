@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-07-06T04:46:47.463442+08:00",
-  "total": 256,
+  "generated_at": "2026-07-06T06:56:08.370618+08:00",
+  "total": 257,
   "listings": [
+    {
+      "id": "591_21583303",
+      "source": "591",
+      "title": "南港忠孝三房/可養寵物/可租補/可報稅",
+      "price": 35000,
+      "district": "南港區",
+      "address": "南港區-忠孝東路六段278巷23弄",
+      "lat": 25.0486655,
+      "lng": 121.5902687,
+      "size": 28.0,
+      "room_type": "",
+      "features": [
+        "近捷運",
+        "新上架",
+        "可報稅",
+        "隨時可遷入",
+        "可開伙",
+        "可養寵物"
+      ],
+      "floor": "3F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "昆陽",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 711,
+      "url": "https://rent.591.com.tw/21583303",
+      "images": [],
+      "posted_at": null,
+      "crawled_at": "2026-07-06T06:50:10.723244+08:00"
+    },
     {
       "id": "591_21576637",
       "source": "591",
