@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-07-07T03:39:22.218514+08:00",
-  "total": 257,
+  "generated_at": "2026-07-07T05:24:18.452279+08:00",
+  "total": 258,
   "listings": [
+    {
+      "id": "591_21589519",
+      "source": "591",
+      "title": "🏡東湖路樓中樓💰補助🗑️垃圾代收👕獨洗🛀乾濕分離",
+      "price": 25000,
+      "district": "內湖區",
+      "address": "內湖區-東湖路113巷",
+      "lat": 25.0733317,
+      "lng": 121.6153316,
+      "size": 25.0,
+      "room_type": "",
+      "features": [
+        "開伙",
+        "優選好屋",
+        "可開伙",
+        "租金",
+        "電費",
+        "性別",
+        "新上架",
+        "可使用面積",
+        "特殊房型",
+        "押金",
+        "租金含",
+        "租金補貼",
+        "近商圈",
+        "身份要求",
+        "養寵物"
+      ],
+      "floor": "頂樓加蓋/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "大湖公園",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 206,
+      "url": "https://rent.591.com.tw/21589519",
+      "images": [
+        "https://img2.591.com.tw/house/2026/07/06/178333434453080606.jpeg!1000x.water2.jpeg",
+        "https://img2.591.com.tw/house/2026/07/06/178333434433963202.jpeg!1000x.water2.jpeg",
+        "https://img2.591.com.tw/house/2026/07/06/178333434450066403.jpeg!1000x.water2.jpeg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-07-07T05:20:03.338255+08:00"
+    },
     {
       "id": "591_21583303",
       "source": "591",
