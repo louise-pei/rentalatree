@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-07-10T07:02:20.466819+08:00",
-  "total": 268,
+  "generated_at": "2026-07-10T09:55:10.661991+08:00",
+  "total": 269,
   "listings": [
+    {
+      "id": "591_21610137",
+      "source": "591",
+      "title": "南港電梯3房近南港公園可租補",
+      "price": 34800,
+      "district": "南港區",
+      "address": "南港區-福德街",
+      "lat": 25.0395235,
+      "lng": 121.5884365,
+      "size": 23.4,
+      "room_type": "",
+      "features": [
+        "免服務費",
+        "押金",
+        "開伙",
+        "屋齡",
+        "法定用途",
+        "電梯",
+        "可使用面積",
+        "權狀坪數",
+        "隨時可遷入",
+        "可開伙",
+        "管理費",
+        "服務費",
+        "養寵物",
+        "社會住宅",
+        "建物面積"
+      ],
+      "floor": "6F/18F",
+      "total_floors": "",
+      "nearest_mrt_station": "後山埤",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 457,
+      "url": "https://rent.591.com.tw/21610137",
+      "images": [
+        "https://img1.591.com.tw/house/2026/06/12/178125334129970409.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/06/12/178125334146004509.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/06/12/178125334139660509.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-07-10T09:48:24.870064+08:00"
+    },
     {
       "id": "591_21579089",
       "source": "591",
