@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-07-11T12:57:21.679854+08:00",
-  "total": 275,
+  "generated_at": "2026-07-11T15:39:10.853448+08:00",
+  "total": 276,
   "listings": [
+    {
+      "id": "591_21615632",
+      "source": "591",
+      "title": "⭐️⭐️內湖康寧路一段精華地段生活機能佳獨立陽台附車位⭐️",
+      "price": 31000,
+      "district": "內湖區",
+      "address": "內湖區-康寧路一段",
+      "lat": 25.080759,
+      "lng": 121.5909481,
+      "size": 30.0,
+      "room_type": "",
+      "features": [
+        "近商圈",
+        "可使用面積",
+        "最短租期",
+        "開伙",
+        "車位",
+        "建物面積",
+        "車位租金",
+        "押金",
+        "電梯",
+        "可遷入日",
+        "有車位",
+        "租金",
+        "可開伙",
+        "電費",
+        "養寵物"
+      ],
+      "floor": "4F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "內湖",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 1009,
+      "url": "https://rent.591.com.tw/21615632",
+      "images": [
+        "https://img2.591.com.tw/house/2026/07/10/178368795064108807.jpeg!1000x.water2.jpeg",
+        "https://img1.591.com.tw/house/2026/07/10/178368797002075302.jpeg!1000x.water2.jpeg",
+        "https://img1.591.com.tw/house/2026/07/10/178368795690992600.jpeg!1000x.water2.jpeg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-07-11T15:31:09.483692+08:00"
+    },
     {
       "id": "591_21616383",
       "source": "591",
