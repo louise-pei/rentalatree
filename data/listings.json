@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-07-11T15:39:10.853448+08:00",
-  "total": 276,
+  "generated_at": "2026-07-11T17:21:14.406554+08:00",
+  "total": 277,
   "listings": [
+    {
+      "id": "591_21617012",
+      "source": "591",
+      "title": "近中研院/南軟科技園區/中信園區、陽台、2房、可開伙",
+      "price": 25000,
+      "district": "南港區",
+      "address": "南港區-舊莊街一段",
+      "lat": 25.0371917,
+      "lng": 121.6238671,
+      "size": 25.0,
+      "room_type": "",
+      "features": [
+        "租金",
+        "可遷入日",
+        "產權登記",
+        "身份要求",
+        "管理費",
+        "最短租期",
+        "新上架",
+        "可開伙",
+        "服務費",
+        "可使用面積",
+        "拎包入住",
+        "免管理費",
+        "養寵物",
+        "電梯",
+        "開伙"
+      ],
+      "floor": "2F/4F",
+      "total_floors": "",
+      "nearest_mrt_station": "南港展覽館",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 2171,
+      "url": "https://rent.591.com.tw/21617012",
+      "images": [
+        "https://img2.591.com.tw/house/2026/07/08/178348895744361805.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/07/08/178348895736977905.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/07/08/178348895741818309.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-07-11T17:15:48.970289+08:00"
+    },
     {
       "id": "591_21615632",
       "source": "591",
