@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-07-12T22:52:13.582725+08:00",
-  "total": 287,
+  "generated_at": "2026-07-13T00:48:53.404732+08:00",
+  "total": 288,
   "listings": [
+    {
+      "id": "591_21624078",
+      "source": "591",
+      "title": "正東區/國父紀念館捷運站/光復南路/延吉街/可租補/可寵物",
+      "price": 35000,
+      "district": "松山區",
+      "address": "松山區-市民大道四段",
+      "lat": 25.0452049,
+      "lng": 121.5462916,
+      "size": 40.0,
+      "room_type": "",
+      "features": [
+        "近捷運",
+        "新上架",
+        "可報稅",
+        "拎包入住",
+        "隨時可遷入",
+        "可開伙"
+      ],
+      "floor": "3F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "忠孝復興",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 462,
+      "url": "https://rent.591.com.tw/21624078",
+      "images": [],
+      "posted_at": null,
+      "crawled_at": "2026-07-13T00:43:54.471624+08:00"
+    },
     {
       "id": "591_21620007",
       "source": "591",
