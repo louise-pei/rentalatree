@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-07-13T04:36:01.634141+08:00",
-  "total": 288,
+  "generated_at": "2026-07-13T06:51:34.781870+08:00",
+  "total": 289,
   "listings": [
+    {
+      "id": "591_21624250",
+      "source": "591",
+      "title": "幽靜綠意，公車總站，寵物友善，採光佳，格局寬敞，優質住宅",
+      "price": 27999,
+      "district": "南港區",
+      "address": "南港區-成福路",
+      "lat": 25.041876,
+      "lng": 121.5874763,
+      "size": 29.4,
+      "room_type": "",
+      "features": [
+        "最短租期",
+        "建物面積",
+        "產權登記",
+        "近商圈",
+        "其他特色",
+        "陽台",
+        "租金",
+        "可使用面積",
+        "可遷入日",
+        "隨時可遷入",
+        "身份要求",
+        "開伙",
+        "法定用途",
+        "可養寵物",
+        "服務費"
+      ],
+      "floor": "4F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "後山埤",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 446,
+      "url": "https://rent.591.com.tw/21624250",
+      "images": [
+        "https://img1.591.com.tw/house/2026/06/30/178280886348215706.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/06/30/178280886325721405.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/06/30/178280886329025405.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-07-13T06:37:12.553817+08:00"
+    },
     {
       "id": "591_21624078",
       "source": "591",
