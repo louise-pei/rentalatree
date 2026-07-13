@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-07-13T13:33:20.237269+08:00",
-  "total": 291,
+  "generated_at": "2026-07-13T16:51:47.703040+08:00",
+  "total": 292,
   "listings": [
+    {
+      "id": "sinyi_C347737",
+      "source": "sinyi",
+      "title": "納美典雅３房",
+      "price": 35000,
+      "district": "南港區",
+      "address": "台北市南港區東新街",
+      "lat": 25.0465756,
+      "lng": 121.5897155,
+      "size": 29.86,
+      "room_type": "大樓(11層含以上有電梯) 3房2廳1.5衛",
+      "features": [
+        "可養寵物",
+        "可養寵",
+        "近學校",
+        "有電梯"
+      ],
+      "floor": "6",
+      "total_floors": "11",
+      "nearest_mrt_station": "昆陽",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 557,
+      "url": "https://www.sinyi.com.tw/rent/houseno/C347737",
+      "images": [
+        "https://res.sinyi.com.tw/rent/C347737/bigimg/A.JPG",
+        "https://res.sinyi.com.tw/rent/C347737/smallimg/A.JPG",
+        "https://res.sinyi.com.tw/rent/C347737/smallimg/B.JPG"
+      ],
+      "posted_at": "2026-07-13T14:40:00+08:00",
+      "crawled_at": "2026-07-13T16:51:08.676904+08:00"
+    },
     {
       "id": "591_21620248",
       "source": "591",
