@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-07-16T04:50:46.506523+08:00",
-  "total": 305,
+  "generated_at": "2026-07-16T06:54:14.348423+08:00",
+  "total": 306,
   "listings": [
+    {
+      "id": "591_21643633",
+      "source": "591",
+      "title": "南港展覽館捷運有庭院一樓",
+      "price": 35000,
+      "district": "南港區",
+      "address": "南港區-忠孝東路七段",
+      "lat": 25.052661,
+      "lng": 121.612073,
+      "size": 32.0,
+      "room_type": "",
+      "features": [
+        "可養寵物",
+        "押金",
+        "開伙",
+        "電費",
+        "法定用途",
+        "可遷入日",
+        "可使用面積",
+        "租金補貼",
+        "其他特色",
+        "建物面積",
+        "電梯",
+        "身份要求",
+        "免管理費",
+        "服務費",
+        "租金"
+      ],
+      "floor": "1F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "南港展覽館",
+      "nearest_mrt_line": "板南線",
+      "nearest_mrt_distance_m": 491,
+      "url": "https://rent.591.com.tw/21643633",
+      "images": [
+        "https://img1.591.com.tw/house/2026/07/15/178410660827049607.jpg!1000x.water2.jpg",
+        "https://img1.591.com.tw/house/2026/07/15/178410661314066801.jpg!1000x.water2.jpg",
+        "https://img2.591.com.tw/house/2026/07/15/178410661789399705.jpg!1000x.water2.jpg"
+      ],
+      "posted_at": null,
+      "crawled_at": "2026-07-16T06:47:22.297824+08:00"
+    },
     {
       "id": "591_21640830",
       "source": "591",
