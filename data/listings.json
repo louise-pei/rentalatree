@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-07-17T02:54:56.044748+08:00",
-  "total": 307,
+  "generated_at": "2026-07-17T04:54:31.938355+08:00",
+  "total": 308,
   "listings": [
+    {
+      "id": "591_21653043",
+      "source": "591",
+      "title": "🔥東湖站✨小資首選4房⚡️台水電.天然瓦斯🐶可寵✅租補",
+      "price": 36000,
+      "district": "內湖區",
+      "address": "內湖區-康樂街72巷17弄",
+      "lat": 25.069883,
+      "lng": 121.6179795,
+      "size": 24.9,
+      "room_type": "",
+      "features": [
+        "影片賞屋",
+        "新上架",
+        "租金補貼",
+        "拎包入住",
+        "近商圈",
+        "可開伙"
+      ],
+      "floor": "4F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "文湖",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 324,
+      "url": "https://rent.591.com.tw/21653043",
+      "images": [],
+      "posted_at": null,
+      "crawled_at": "2026-07-17T04:44:17.144490+08:00"
+    },
     {
       "id": "591_21649940",
       "source": "591",
