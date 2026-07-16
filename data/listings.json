@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-07-16T17:55:48.353662+08:00",
-  "total": 306,
+  "generated_at": "2026-07-16T19:35:43.733159+08:00",
+  "total": 307,
   "listings": [
+    {
+      "id": "591_21649940",
+      "source": "591",
+      "title": "精華樓❤視野寬廣採光佳👍四房大空間",
+      "price": 32000,
+      "district": "內湖區",
+      "address": "內湖區-康樂街",
+      "lat": 25.068761,
+      "lng": 121.618418,
+      "size": 37.5,
+      "room_type": "",
+      "features": [
+        "屋主直租",
+        "新上架",
+        "隨時可遷入",
+        "可開伙",
+        "可養寵物"
+      ],
+      "floor": "3F/5F",
+      "total_floors": "",
+      "nearest_mrt_station": "文湖",
+      "nearest_mrt_line": "文湖線",
+      "nearest_mrt_distance_m": 369,
+      "url": "https://rent.591.com.tw/21649940",
+      "images": [],
+      "posted_at": null,
+      "crawled_at": "2026-07-16T19:26:17.775076+08:00"
+    },
     {
       "id": "591_21643633",
       "source": "591",
